@@ -1,0 +1,40 @@
+{
+  "minecraft": {
+    "version": "1.5.2",
+    "modLoaders": [
+      {
+        "id": "forge-7.8.1.737",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "Magic Farm ",
+  "version": "1.0",
+  "author": "jadedcat",
+  "projectID": 225576,
+  "files": [
+    {
+      "projectID": 65509,
+      "fileID": 734654,
+      "required": true
+    },
+    {
+      "projectID": 59857,
+      "fileID": 713097,
+      "required": true
+    },
+    {
+      "projectID": 59769,
+      "fileID": 712871,
+      "required": true
+    },
+    {
+      "projectID": 59706,
+      "fileID": 712760,
+      "required": true
+    }
+  ],
+  "overrides": "overrides"
+}
